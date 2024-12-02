@@ -23,6 +23,7 @@ To set up the environment, install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 Primary Dependencies
 
@@ -32,7 +33,6 @@ Primary Dependencies
 	•	scikit-learn
 	•	pandas
 	•	numpy
-```
 
 ## Usage
 
