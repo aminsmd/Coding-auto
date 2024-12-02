@@ -46,10 +46,10 @@ The repository assumes access to preprocessed data files. Update the paths in th
 
 ## Evaluation
 
-Results are logged during execution and may include performance metrics such as:
-	•	Accuracy
-	•	F1 Scores: Macro and Weighted
-	•	Confusion Matrices
+Results are logged during execution and may include performance metrics such as:\
+	•	Accuracy\
+	•	F1 Scores: Macro and Weighted\
+	•	Confusion Matrices\
 
 These metrics align with the task-based train-test split methodology discussed in the associated paper.
 
