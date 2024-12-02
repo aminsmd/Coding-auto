@@ -63,10 +63,10 @@ Citation
 
 If you use this repository, please cite the associated publication:
 
-@inproceedings{samadi2024cps,
+@inproceedings{samadi2024minds,
   title={Minds and Machines Unite: Deciphering Social and Cognitive Dynamics in Collaborative Problem Solving with AI},
-  author={Samadi, Mohammad Amin and others},
-  booktitle={Proceedings of the 14th Learning Analytics and Knowledge Conference (LAK '24)},
-  year={2024},
-  publisher={ACM}
+  author={Samadi, Mohammad Amin and Jaquay, Spencer and Lin, Yiwen and Tajik, Elham and Park, Seehee and Nixon, Nia},
+  booktitle={Proceedings of the 14th Learning Analytics and Knowledge Conference},
+  pages={885--891},
+  year={2024}
 }
