@@ -32,8 +32,9 @@ Primary Dependencies
 	•	scikit-learn
 	•	pandas
 	•	numpy
+```
 
-Usage
+## Usage
 
 Running the Models
 
