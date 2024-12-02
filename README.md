@@ -1,4 +1,4 @@
-# Minds and Machines Unite: CPS Classification Repository
+# Minds and Machines Unite: CPS Classification
 
 This repository contains implementations of various machine learning and deep learning models developed for the classification of Collaborative Problem Solving (CPS) skills, as described in the paper **"Minds and Machines Unite: Deciphering Social and Cognitive Dynamics in Collaborative Problem Solving with AI"**.
 
