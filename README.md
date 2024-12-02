@@ -44,7 +44,7 @@ Customization
 
 The repository assumes access to preprocessed data files. Update the paths in the scripts as necessary for local use.
 
-Evaluation
+## Evaluation
 
 Results are logged during execution and may include performance metrics such as:
 	•	Accuracy
@@ -53,13 +53,13 @@ Results are logged during execution and may include performance metrics such as:
 
 These metrics align with the task-based train-test split methodology discussed in the associated paper.
 
-Key Features
+## Key Features
 
 	•	Traditional ML Models: Fast, interpretable baseline methods.
 	•	Deep Learning Models: Leverage sequential and contextual features of text data.
 	•	Large Language Models: State-of-the-art NLP models (BERT, GPT-2) fine-tuned for CPS classification.
 
-Citation
+## Citation
 
 If you use this repository, please cite the associated publication:
 
